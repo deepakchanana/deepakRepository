@@ -14,7 +14,8 @@ public class Class1
 {
 public static void main(String[] args) 
 {
-  System.out.println("Added the line");	
+  System.out.println("Added the line--------------------------------------------------------");
+	
   LinkedHashMap<Integer,String> hm=new LinkedHashMap<Integer,String>();
   hm.put(12, "Deepak");
   hm.put(11, "Deepk");
